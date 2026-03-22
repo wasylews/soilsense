@@ -1,0 +1,11 @@
+# Kicad
+*-backups
+*-cache
+*-bak
+*.bak
+*.kicad_prl
+
+# Firmware
+.env
+secrets.yml
+.esphome
