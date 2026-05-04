@@ -4,6 +4,7 @@
 *-bak
 *.bak
 *.kicad_prl
+.history
 
 # Firmware
 .env
