@@ -17,3 +17,6 @@ secrets.yml
 
 # Python
 __pycache__/
+
+# Derived SVG exports (regenerated from the KiCad sources)
+images/svg/
