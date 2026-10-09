@@ -4,9 +4,16 @@
 *-bak
 *.bak
 *.kicad_prl
+*.lck
 .history
+
+# FreeCAD
+*.FCBak
 
 # Firmware
 .env
 secrets.yml
 .esphome
+
+# Python
+__pycache__/
